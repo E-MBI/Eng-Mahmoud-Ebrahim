@@ -1,4 +1,5 @@
-<img align="center"  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="coding"/>
+![Design and Development](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
+
 <h1 align="center">Hi 👋, I'm Mahmoud Ebrahim</h1>
 <h3 align="center">I am a competent and committed frontend developer from egypt</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="coding"/>
